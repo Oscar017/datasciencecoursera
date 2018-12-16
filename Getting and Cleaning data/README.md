@@ -1,9 +1,9 @@
 ### Peer-graded Assignment: Getting and Cleaning DAta Course Project
 
-##Data set
+## Data set
 [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-##Files
+## Files
 1. Codebook.md is a codebook that describes the data, variables and captures any changes.
 2. final_data.txt is an exported file afer cleaning up the data
 3. run_analysis.R is a script that shows the execution of getting and cleaning the data as described in the course requirements:
