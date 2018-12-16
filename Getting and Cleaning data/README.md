@@ -11,4 +11,4 @@
   + Extracts only the measurement on the mean and standard deviation for each measurement.
   + USes descriptive activity names to name the activities in the data set.
   + Appropriately labels the data set with descriptive variable names.
-  +From the data in step4, creates a second independent tidy data set with the average of each variable for each activity and each subject.
+  + From the data in step4, creates a second independent tidy data set with the average of each variable for each activity and each subject.
